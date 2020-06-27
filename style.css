@@ -1,17 +1,17 @@
 body {
-   background-color: ffffff;
+   background-color: #ffffff;
 }
 
 .section-1 {
-    position: absolute;
+    position: fixed;
     left: 0px;
-    top: 130px;
+    top: 10px;
 }
 
 .article-1 {
-    position: absolute;
-    right: 30%;
-    top: 86px;
+    position: fixed;
+    left: 900px;
+    top: 5px;
     width: 90.26px;
     height: 100.91px;
 
@@ -25,8 +25,8 @@ body {
 }
 
 .article-2 {
-    position: absolute;
-    top: 240px;
+    position: fixed;
+    top: 150px;
     left: 700px;
 
     font-family: 'Rage Italic', serif;
@@ -38,8 +38,8 @@ body {
 }
 
 .article-3 {
-    position: absolute;
-    top: 270px;
+    position: fixed;
+    top: 170px;
     left: 700px;
 
     font-family: 'Roboto', sans-serif;
@@ -54,8 +54,8 @@ body {
 }
 
 .article-4 {
-    position: absolute;
-    top: 600px;
+    position: fixed;
+    top: 525px;
     left: 740px;
 
     font-family: 'Sahitya', sans-serif;
